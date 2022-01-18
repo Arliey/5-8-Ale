@@ -23,7 +23,7 @@ Route::get('/about', function () {
     return view('about', [
         "title" => "About",
         "nama" => "Arliey Januar",
-        "email" => "Arliey@gmail.com",
+        "email" => "xrley12@gmail.com",
         "gambar" => "jusiwot.jpeg"
     ]);
 });
